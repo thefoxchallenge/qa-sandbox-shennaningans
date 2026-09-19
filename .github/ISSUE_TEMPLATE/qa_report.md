@@ -1,3 +1,12 @@
+Markdown
+---
+name: QA Bug Report
+about: Standard template for BetterBugs and CODEX
+title: '[BUG] '
+labels: ''
+assignees: ''
+---
+
 ## 🐛 Bug Overview
 <!-- A brief 1-2 sentence description of what failed -->
 **Summary:** [Provide a high-level summary of the bug]

@@ -1,10 +1,8 @@
-Markdown
 ---
 name: QA Bug Report
-about: Standard template for BetterBugs and CODEX
-title: '[BUG] '
-labels: ''
-assignees: ''
+about: Bug Report 
+title: '[BUG]: '
+labels: bug
 ---
 
 ## 🐛 Bug Overview
